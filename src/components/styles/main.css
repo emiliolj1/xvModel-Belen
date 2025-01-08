@@ -9,8 +9,19 @@
   --viridian: #468871ff;
   --ecru-2: #cebc88ff;
   --dun: #d7cdb2ff;
-  --titulos: "Great Vibes", cursive;
-  --secFont: "Cinzel", serif;
+  /*Nuevos*/
+  --champagne-pink: #f5ddcfff;
+  --linen: #f7eee5ff;
+  --champagne-pink-2: #fbe9deff;
+  --golden-brown: #9f6f32ff;
+  --dutch-white: #efdcbbff;
+  --ecru: #cfb269ff;
+  --isabelline: #ede6e0ff;
+  --pale-dogwood: #facabcff;
+  --ecru-2: #dec285ff;
+  --seashell: #fbf4eeff;
+  --titulos: "Alex Brush", serif;
+  --secFont: "Playfair Display", serif;
 }
 
 .bgFooter{
