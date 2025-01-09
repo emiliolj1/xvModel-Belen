@@ -29,21 +29,21 @@ function Countdown() {
           <div className="responsivo1">
             <div className="cartel">
               <div id="dias">{days}</div>
-              <div className="h3"><h3>Días</h3></div>
+              <div><h3>Días</h3></div>
             </div>
             <div className="cartel">
               <div id="horas">{hours}</div>
-              <div className="h3"><h3>Horas</h3></div>
+              <div><h3>Horas</h3></div>
             </div>
           </div>
           <div className="responsivo2">
             <div className="cartel">
               <div id="minutos">{minutes}</div>
-              <div className="h3"><h3>Minutos</h3></div>
+              <div><h3>Minutos</h3></div>
             </div>
             <div className="cartel">
               <div id="segundos">{seconds}</div>
-              <div className="h3"><h3>Segundos</h3></div>
+              <div><h3>Segundos</h3></div>
             </div>
           </div>
         </div>
