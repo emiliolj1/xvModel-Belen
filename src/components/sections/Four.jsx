@@ -12,7 +12,7 @@ const Four = () => {
           <h2 className='titulo fw-bold' style={{fontSize:'2.6rem', fontStyle: 'normal'}} >Asistencia</h2>
           <p className='asistenciaFont fs-6 my-0'>Quiero contar contigo, ¿vienes?</p>
           <p className='asistenciaFont fs-6 my-0'>Confírmame, por favor.</p>
-          <Button href='https://wa.me/543816364212?text=Hola%20Adriana,%20confirmo%20mi%20presencia.%20Soy%20[tu nombre]' className='my-3 mx-auto asisButton fw-bold'>
+          <Button href='https://wa.me/543814023678?text=Hola%20Florencia,%20confirmo%20mi%20presencia.%20Soy%20[tu nombre]' className='my-3 mx-auto asisButton fw-bold'>
             Confirmar Presencia!
           </Button>
         </div>

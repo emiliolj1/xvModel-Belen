@@ -10,7 +10,7 @@ import Six from './components/sections/Six';
 import Footer from './components/sections/Footer';
 import Modal from 'react-bootstrap/Modal'
 import Button from 'react-bootstrap/Button'
-import audioFile from './components/resources/Sabrina Carpenter - Feather.mp3'
+import audioFile from './components/resources/Bruno Mars - Just The Way You Are (Lyrics).mp3'
 import {PauseCircleFill, PlayCircleFill} from 'react-bootstrap-icons';
 
 function App() {
@@ -39,7 +39,7 @@ function App() {
         <Modal.Body className='mx-auto mb-0 pb-0'>
           <h3 className='titulo text-center' style={{fontSize:'2.3rem'}} >Bienvenidos</h3>
           <h3 className='titulo text-center' style={{fontSize:'2.3rem'}}>a la invitacion de</h3>
-          <h3 className='titulo text-center' style={{fontSize:'3rem'}}>Belen</h3>
+          <h3 className='titulo text-center' style={{fontSize:'3rem'}}>Belén</h3>
         </Modal.Body>
         <Modal.Footer className='mx-auto text-center mt-0 pt-1'>
           <Button className='cardFont cardButton mx-auto fs-4 fw-bold' onClick={handleModalClose}>
@@ -62,7 +62,7 @@ function App() {
       <Two/>
       <Three/>
       <Four/>
-      <Five/>
+      {/* <Five/> */}
       <Six/>
       <Footer/>
     </>
